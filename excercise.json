@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 2,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 3,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 4,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 5,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 6,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 7,
+        "courseId": 1,
+        "name": "Introduction",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 1,
+        "courseId": 2,
+        "name": "Introduction (ek naya naam)",
+        "content": "Iss exercise mein aapne yeh sab karna hai.",
+        "hint": "Hello! Yeh ek hint hai!!!!"
+    },
+    {
+        "id": 2,
+        "courseId": 2,
+        "name": "Task 1",
+        "content": "Ek page pe <h1> aur <h2> ka use kar ke NavGurukul likho aur <h2> mein *Learn to Help*.",
+        "hint": "w3 schools pe jaake <h1> aur <h2> tag ke baare samjho."
+    }
+]
