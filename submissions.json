@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "courseId": 2,
+    "exerciseId": 2,
+    "content": "Yaha kuch code hoga.",
+    "userName": "Rishabh Verma"
+  },
+  {
+    "id": 2,
+    "courseId": 2,
+    "exerciseId": 2,
+    "content": "Yaha kuch code hoga. Yeh aur code hai",
+    "userName": "Anand"
+  },
+  {
+    "id": 3,
+    "courseId": 2,
+    "exerciseId": 2,
+    "content": "Yaha aapki submissions ka content.",
+    "userName": "Ajay Udayan"
+  },
+  {
+    "id": 4,
+    "courseId": 1,
+    "exerciseId": 1,
+    "content": "Yaha aapki submissions ka content.",
+    "userName": "rahul"
+  }
+]
